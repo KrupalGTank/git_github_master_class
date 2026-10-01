@@ -33,3 +33,6 @@ break
    3. second
 3. list 2
 4. list 3
+
+![bar graph](graph.png)
+![pie graph](pie.png)
